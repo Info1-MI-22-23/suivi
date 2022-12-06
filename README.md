@@ -1,6 +1,9 @@
-# suivi
+# Utile
+- [exercices](https://github.com/tony-maulaz/info1-exercices)
 
-# 06-12-2022
+# Suivi de cours
+
+### 06-12-2022
 - Ternaire
 - modulo
 
