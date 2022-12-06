@@ -7,3 +7,6 @@
 - Ternaire
 - modulo
 
+### 08-12-2022
+- Les tableaux
+- Sizeof
