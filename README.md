@@ -11,3 +11,8 @@
 - Les tableaux
 - Sizeof
 - size_t
+
+### 13-12-2022
+- Switch case
+- Tableau et fonction
+- Break et continue
