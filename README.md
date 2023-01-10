@@ -19,3 +19,8 @@
 
 ### 20-12-2022
 - Post et pré incrément
+
+### 10-01-2023
+- Revoir fonction pour clear un bit avec shift
+- Fonction chaîne de caractère (palindrome, recherche, occurrence)
+- Les types de données de taille fix (int16_t, uint8_t...)
