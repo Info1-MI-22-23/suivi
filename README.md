@@ -24,3 +24,7 @@
 - Revoir fonction pour clear un bit avec shift
 - Fonction chaîne de caractère (palindrome, recherche, occurrence)
 - Les types de données de taille fix (int16_t, uint8_t...)
+
+### 17-01-2023
+- Tableau multidimensionnel
+- Révision TE2
